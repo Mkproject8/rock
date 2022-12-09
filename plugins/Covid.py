@@ -19,7 +19,7 @@ def covid_info(country_name):
         deaths = info['deaths']
         info_id = info['id']k
         last_update = info['last_update']
-        latitude = kkrkrkr']
+        latitude = info['latitude']
         longitude = info['longitude']
         recovered = info['recovered']
         covid_info = f"""--**Covid 19 Information**--
