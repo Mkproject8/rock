@@ -17,7 +17,7 @@ def covid_info(country_name):
         active = info['active']
         confirmed = info['confirmed']
         deaths = info['deaths']
-        info_id = info['id']k
+        info_id = info['id']
         last_update = info['last_update']
         latitude = info['latitude']
         longitude = info['longitude']
